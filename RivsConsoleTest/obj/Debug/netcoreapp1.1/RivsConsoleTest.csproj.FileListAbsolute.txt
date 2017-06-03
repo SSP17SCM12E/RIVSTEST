@@ -1,0 +1,8 @@
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.deps.json
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.runtimeconfig.json
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.runtimeconfig.dev.json
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.dll
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.pdb
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.AssemblyInfo.cs
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.dll
+c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.pdb
