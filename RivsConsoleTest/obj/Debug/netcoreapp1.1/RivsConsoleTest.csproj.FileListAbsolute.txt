@@ -6,3 +6,12 @@ c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConso
 c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.AssemblyInfo.cs
 c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.dll
 c:\users\subakar\documents\visual studio 2017\Projects\RivsConsoleTest\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.pdb
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.deps.json
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.runtimeconfig.json
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.runtimeconfig.dev.json
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.dll
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.pdb
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.AssemblyInfo.cs
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.dll
+C:\Users\Subakar\Desktop\Interview3\RivsConsoleTest\obj\Debug\netcoreapp1.1\RivsConsoleTest.pdb

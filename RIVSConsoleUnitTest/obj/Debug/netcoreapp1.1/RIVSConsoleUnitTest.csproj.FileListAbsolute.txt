@@ -1,0 +1,14 @@
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\RIVSConsoleUnitTest.deps.json
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\RIVSConsoleUnitTest.runtimeconfig.json
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\RIVSConsoleUnitTest.runtimeconfig.dev.json
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\RIVSConsoleUnitTest.dll
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\RIVSConsoleUnitTest.pdb
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.dll
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\bin\Debug\netcoreapp1.1\RivsConsoleTest.pdb
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\obj\Debug\netcoreapp1.1\RIVSConsoleUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\obj\Debug\netcoreapp1.1\RIVSConsoleUnitTest.AssemblyInfo.cs
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\obj\Debug\netcoreapp1.1\RIVSConsoleUnitTest.dll
+C:\Users\Subakar\Desktop\Interview3\RIVSConsoleUnitTest\obj\Debug\netcoreapp1.1\RIVSConsoleUnitTest.pdb
